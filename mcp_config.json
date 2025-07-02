@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "python",
+      "args": ["mcp_weather_server.py"],
+      "env": {
+        "API_KEY": "${API_KEY}"
+      }
+    }
+  }
+}
