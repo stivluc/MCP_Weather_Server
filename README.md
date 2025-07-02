@@ -200,4 +200,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Built with ❤️ to demonstrate real Model Context Protocol (MCP) implementation**
+**Built to learn about MCP.**
